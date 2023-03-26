@@ -1,1 +1,4 @@
 # Airbnb-recommender-system-project
+The goal of the Airbnb Recommender System project is to create a customised recommendation system for the widely used Airbnb holiday rental marketplace. The system makes property recommendations to users based on their interests and past actions using machine learning algorithms.
+Data on users' tastes, prior reservations, property features, and guest opinions must be gathered and cleaned as the project's initial phase. To better forecast the accommodations a user will book, we will utilise this information to build machine learning models.
+In last, the system will be fine-tuned for speed and scalability to accommodate the massive amounts of data produced by the infrastructure. In order to better serve its customers, Airbnb is working on a recommendation system that will adjust its suggestions to each user's specific tastes and habits.
